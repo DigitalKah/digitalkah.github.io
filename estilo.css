@@ -1,0 +1,23 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+@media (max-width: 400px){
+	.display-4{
+		font-size: 2.5em;
+		margin: 10px 0;
+	}
+	#home p{
+		margin: 10px 0;
+		font-size: 1.1em;
+	}
+}
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a{
+	margin: 5px 15px;
+}

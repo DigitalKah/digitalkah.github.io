@@ -1,0 +1,2 @@
+https://getbootstrap.com.br/docs/4.1/getting-started/introduction/
+https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css
